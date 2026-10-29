@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 600' width='960' height='600'>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#0c4a6e'/><stop offset='1' stop-color='#2563eb'/></linearGradient>
+<radialGradient id='glow' cx='.8' cy='.1' r='.7'><stop offset='0' stop-color='#fff' stop-opacity='.25'/><stop offset='1' stop-color='#fff' stop-opacity='0'/></radialGradient></defs>
+<rect width='960' height='600' fill='url(#bg)'/><rect width='960' height='600' fill='url(#glow)'/>
+<rect x='80' y='70' width='800' height='460' rx='18' fill='#0d0b1a' stroke='#ffffff22'/>
+<rect x='80' y='70' width='800' height='44' rx='18' fill='#16132b'/><rect x='80' y='96' width='800' height='18' fill='#16132b'/>
+<circle cx='108' cy='92' r='6' fill='#ff5f57'/><circle cx='128' cy='92' r='6' fill='#febc2e'/><circle cx='148' cy='92' r='6' fill='#28c840'/>
+<rect x='300' y='82' width='360' height='20' rx='10' fill='#ffffff12'/>
+<text x='480' y='96' fill='#ffffff88' font-size='11' text-anchor='middle' font-family='JetBrains Mono,Consolas,monospace'>kickstarter-campaign</text>
+<rect x='80' y='114' width='800' height='416' fill='#fff'/>
+<text x='110' y='160' fill='#05ce78' font-size='28' font-weight='900' font-family='Inter,Segoe UI,Arial,sans-serif'>KICKSTARTER</text>
+<rect x='110' y='185' width='420' height='250' rx='12' fill='#d1fae5'/>
+<polygon points='290,270 290,350 360,310' fill='#059669'/>
+<text x='560' y='210' fill='#0f172a' font-size='20' font-weight='800' font-family='Inter,Segoe UI,Arial,sans-serif'>Smart Solar Backpack</text>
+<text x='560' y='236' fill='#64748b' font-size='13' font-family='Inter,Segoe UI,Arial,sans-serif'>Charge your devices on the go.</text>
+<rect x='560' y='262' width='290' height='10' rx='5' fill='#e5e7eb'/><rect x='560' y='262' width='230' height='10' rx='5' fill='#05ce78'/>
+<text x='560' y='310' fill='#05ce78' font-size='26' font-weight='800' font-family='Inter,Segoe UI,Arial,sans-serif'>$47,820</text>
+<text x='560' y='330' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>pledged of $60,000 goal</text>
+<text x='560' y='370' fill='#0f172a' font-size='22' font-weight='800' font-family='Inter,Segoe UI,Arial,sans-serif'>1,284</text><text x='660' y='370' fill='#0f172a' font-size='22' font-weight='800' font-family='Inter,Segoe UI,Arial,sans-serif'>18</text>
+<text x='560' y='388' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>backers</text><text x='660' y='388' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>days to go</text>
+<rect x='560' y='410' width='290' height='44' rx='6' fill='#05ce78'/><text x='705' y='438' fill='#fff' font-size='15' font-weight='800' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Back this project</text>
+<rect x='110' y='452' width='130' height='10' rx='5' fill='#e5e7eb'/><rect x='250' y='452' width='90' height='10' rx='5' fill='#e5e7eb'/>
+</svg>

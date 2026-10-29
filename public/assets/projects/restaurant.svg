@@ -1,0 +1,35 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 600' width='960' height='600'>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#1e3a8a'/><stop offset='1' stop-color='#3b82f6'/></linearGradient>
+<radialGradient id='glow' cx='.8' cy='.1' r='.7'><stop offset='0' stop-color='#fff' stop-opacity='.25'/><stop offset='1' stop-color='#fff' stop-opacity='0'/></radialGradient></defs>
+<rect width='960' height='600' fill='url(#bg)'/><rect width='960' height='600' fill='url(#glow)'/>
+<rect x='80' y='70' width='800' height='460' rx='18' fill='#0d0b1a' stroke='#ffffff22'/>
+<rect x='80' y='70' width='800' height='44' rx='18' fill='#16132b'/><rect x='80' y='96' width='800' height='18' fill='#16132b'/>
+<circle cx='108' cy='92' r='6' fill='#ff5f57'/><circle cx='128' cy='92' r='6' fill='#febc2e'/><circle cx='148' cy='92' r='6' fill='#28c840'/>
+<rect x='300' y='82' width='360' height='20' rx='10' fill='#ffffff12'/>
+<text x='480' y='96' fill='#ffffff88' font-size='11' text-anchor='middle' font-family='JetBrains Mono,Consolas,monospace'>restaurant-management</text>
+<rect x='110' y='140' width='230' height='150' rx='14' fill='#1c1917' stroke='#ffffff14'/>
+<circle cx='170' cy='200' r='38' fill='#f97316' opacity='.9'/><circle cx='170' cy='200' r='24' fill='#fff' opacity='.25'/>
+<text x='222' y='192' fill='#fff' font-size='15' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Chicken Karahi</text>
+<text x='222' y='216' fill='#fbbf24' font-size='14' font-family='Inter,Segoe UI,Arial,sans-serif'>Rs 1,450</text>
+<rect x='130' y='250' width='190' height='26' rx='13' fill='#f97316'/><text x='225' y='268' fill='#111' font-size='12' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Add to order</text><rect x='360' y='140' width='230' height='150' rx='14' fill='#1c1917' stroke='#ffffff14'/>
+<circle cx='420' cy='200' r='38' fill='#eab308' opacity='.9'/><circle cx='420' cy='200' r='24' fill='#fff' opacity='.25'/>
+<text x='472' y='192' fill='#fff' font-size='15' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Beef Biryani</text>
+<text x='472' y='216' fill='#fbbf24' font-size='14' font-family='Inter,Segoe UI,Arial,sans-serif'>Rs 850</text>
+<rect x='380' y='250' width='190' height='26' rx='13' fill='#eab308'/><text x='475' y='268' fill='#111' font-size='12' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Add to order</text><rect x='110' y='310' width='230' height='150' rx='14' fill='#1c1917' stroke='#ffffff14'/>
+<circle cx='170' cy='370' r='38' fill='#ef4444' opacity='.9'/><circle cx='170' cy='370' r='24' fill='#fff' opacity='.25'/>
+<text x='222' y='362' fill='#fff' font-size='15' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Seekh Kabab</text>
+<text x='222' y='386' fill='#fbbf24' font-size='14' font-family='Inter,Segoe UI,Arial,sans-serif'>Rs 650</text>
+<rect x='130' y='420' width='190' height='26' rx='13' fill='#ef4444'/><text x='225' y='438' fill='#111' font-size='12' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Add to order</text><rect x='360' y='310' width='230' height='150' rx='14' fill='#1c1917' stroke='#ffffff14'/>
+<circle cx='420' cy='370' r='38' fill='#22c55e' opacity='.9'/><circle cx='420' cy='370' r='24' fill='#fff' opacity='.25'/>
+<text x='472' y='362' fill='#fff' font-size='15' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Mint Margarita</text>
+<text x='472' y='386' fill='#fbbf24' font-size='14' font-family='Inter,Segoe UI,Arial,sans-serif'>Rs 350</text>
+<rect x='380' y='420' width='190' height='26' rx='13' fill='#22c55e'/><text x='475' y='438' fill='#111' font-size='12' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Add to order</text>
+<rect x='620' y='140' width='240' height='320' rx='14' fill='#292524'/>
+<text x='640' y='172' fill='#fff' font-size='16' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Table 07 · Order</text>
+<text x='640' y='210' fill='#d6d3d1' font-size='13' font-family='Inter,Segoe UI,Arial,sans-serif'>1× Chicken Karahi</text><text x='840' y='210' fill='#d6d3d1' font-size='13' text-anchor='end' font-family='Inter,Segoe UI,Arial,sans-serif'>1,450</text>
+<text x='640' y='236' fill='#d6d3d1' font-size='13' font-family='Inter,Segoe UI,Arial,sans-serif'>2× Beef Biryani</text><text x='840' y='236' fill='#d6d3d1' font-size='13' text-anchor='end' font-family='Inter,Segoe UI,Arial,sans-serif'>1,700</text>
+<text x='640' y='262' fill='#d6d3d1' font-size='13' font-family='Inter,Segoe UI,Arial,sans-serif'>3× Mint Margarita</text><text x='840' y='262' fill='#d6d3d1' font-size='13' text-anchor='end' font-family='Inter,Segoe UI,Arial,sans-serif'>1,050</text>
+<line x1='640' y1='285' x2='840' y2='285' stroke='#57534e'/>
+<text x='640' y='312' fill='#fff' font-size='15' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Total</text><text x='840' y='312' fill='#fbbf24' font-size='15' font-weight='700' text-anchor='end' font-family='Inter,Segoe UI,Arial,sans-serif'>Rs 4,200</text>
+<rect x='640' y='400' width='200' height='40' rx='10' fill='#f97316'/><text x='740' y='425' fill='#fff' font-size='14' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Place Order</text>
+</svg>

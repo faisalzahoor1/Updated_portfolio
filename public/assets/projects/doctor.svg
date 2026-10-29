@@ -1,0 +1,39 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 600' width='960' height='600'>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#1d4ed8'/><stop offset='1' stop-color='#0ea5e9'/></linearGradient>
+<radialGradient id='glow' cx='.8' cy='.1' r='.7'><stop offset='0' stop-color='#fff' stop-opacity='.25'/><stop offset='1' stop-color='#fff' stop-opacity='0'/></radialGradient></defs>
+<rect width='960' height='600' fill='url(#bg)'/><rect width='960' height='600' fill='url(#glow)'/>
+<rect x='80' y='70' width='800' height='460' rx='18' fill='#0d0b1a' stroke='#ffffff22'/>
+<rect x='80' y='70' width='800' height='44' rx='18' fill='#16132b'/><rect x='80' y='96' width='800' height='18' fill='#16132b'/>
+<circle cx='108' cy='92' r='6' fill='#ff5f57'/><circle cx='128' cy='92' r='6' fill='#febc2e'/><circle cx='148' cy='92' r='6' fill='#28c840'/>
+<rect x='300' y='82' width='360' height='20' rx='10' fill='#ffffff12'/>
+<text x='480' y='96' fill='#ffffff88' font-size='11' text-anchor='middle' font-family='JetBrains Mono,Consolas,monospace'>prescripto · doctor-appointment</text>
+<rect x='80' y='114' width='800' height='416' fill='#eef2ff'/>
+<rect x='110' y='134' width='740' height='146' rx='16' fill='#5f6fff'/>
+<text x='140' y='186' fill='#fff' font-size='30' font-weight='800' font-family='Inter,Segoe UI,Arial,sans-serif'>Book Appointment</text>
+<text x='140' y='220' fill='#fff' font-size='22' font-weight='600' font-family='Inter,Segoe UI,Arial,sans-serif'>With Trusted Doctors</text>
+<rect x='140' y='238' width='150' height='30' rx='15' fill='#fff'/><text x='215' y='258' fill='#5f6fff' font-size='13' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>Book now →</text>
+<g transform='translate(700,150)'><rect width='120' height='110' rx='12' fill='#fff' opacity='.95'/>
+<text x='60' y='26' fill='#5f6fff' font-size='13' font-weight='700' text-anchor='middle' font-family='Inter,Segoe UI,Arial,sans-serif'>OCT 2026</text>
+<rect x='12' y='38' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='32' y='38' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='52' y='38' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='72' y='38' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='92' y='38' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='12' y='58' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='32' y='58' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='52' y='58' width='16' height='16' rx='4' fill='#5f6fff'/><rect x='72' y='58' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='92' y='58' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='12' y='78' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='32' y='78' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='52' y='78' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='72' y='78' width='16' height='16' rx='4' fill='#e0e7ff'/><rect x='92' y='78' width='16' height='16' rx='4' fill='#e0e7ff'/></g>
+<rect x='110' y='300' width='170' height='200' rx='14' fill='#f8fafc'/>
+<rect x='110' y='300' width='170' height='110' rx='14' fill='#0ea5e9' opacity='.18'/>
+<circle cx='195' cy='345' r='26' fill='#0ea5e9'/><rect x='170' y='372' width='50' height='38' rx='18' fill='#0ea5e9'/>
+<circle cx='128' cy='428' r='4' fill='#22c55e'/><text x='138' y='432' fill='#16a34a' font-size='11' font-family='Inter,Segoe UI,Arial,sans-serif'>Available</text>
+<text x='124' y='456' fill='#0f172a' font-size='14' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Dr. Ayesha Khan</text>
+<text x='124' y='476' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>Cardiologist</text><rect x='300' y='300' width='170' height='200' rx='14' fill='#f8fafc'/>
+<rect x='300' y='300' width='170' height='110' rx='14' fill='#14b8a6' opacity='.18'/>
+<circle cx='385' cy='345' r='26' fill='#14b8a6'/><rect x='360' y='372' width='50' height='38' rx='18' fill='#14b8a6'/>
+<circle cx='318' cy='428' r='4' fill='#22c55e'/><text x='328' y='432' fill='#16a34a' font-size='11' font-family='Inter,Segoe UI,Arial,sans-serif'>Available</text>
+<text x='314' y='456' fill='#0f172a' font-size='14' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Dr. Usman Ali</text>
+<text x='314' y='476' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>Neurologist</text><rect x='490' y='300' width='170' height='200' rx='14' fill='#f8fafc'/>
+<rect x='490' y='300' width='170' height='110' rx='14' fill='#6366f1' opacity='.18'/>
+<circle cx='575' cy='345' r='26' fill='#6366f1'/><rect x='550' y='372' width='50' height='38' rx='18' fill='#6366f1'/>
+<circle cx='508' cy='428' r='4' fill='#22c55e'/><text x='518' y='432' fill='#16a34a' font-size='11' font-family='Inter,Segoe UI,Arial,sans-serif'>Available</text>
+<text x='504' y='456' fill='#0f172a' font-size='14' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Dr. Sana Malik</text>
+<text x='504' y='476' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>Dermatologist</text><rect x='680' y='300' width='170' height='200' rx='14' fill='#f8fafc'/>
+<rect x='680' y='300' width='170' height='110' rx='14' fill='#10b981' opacity='.18'/>
+<circle cx='765' cy='345' r='26' fill='#10b981'/><rect x='740' y='372' width='50' height='38' rx='18' fill='#10b981'/>
+<circle cx='698' cy='428' r='4' fill='#22c55e'/><text x='708' y='432' fill='#16a34a' font-size='11' font-family='Inter,Segoe UI,Arial,sans-serif'>Available</text>
+<text x='694' y='456' fill='#0f172a' font-size='14' font-weight='700' font-family='Inter,Segoe UI,Arial,sans-serif'>Dr. Bilal Ahmed</text>
+<text x='694' y='476' fill='#64748b' font-size='12' font-family='Inter,Segoe UI,Arial,sans-serif'>Pediatrician</text>
+</svg>
